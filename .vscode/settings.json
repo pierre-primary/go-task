@@ -1,0 +1,14 @@
+{
+    "go.toolsEnvVars": {
+        "GOARCH": "amd64",
+        // "GOOS": "linux",
+        // "GOOS": "darwin",
+        // "GOOS": "windows",
+    },
+    "go.testFlags": [
+        // "-timeout=20m",
+        // "-race",
+        // "-ldflags=-s -w",
+        // "-cpuprofile=cpu.prof"
+    ]
+}
